@@ -1,11 +1,8 @@
-/* Paleta de Colores
-#43766C
-#F8FAE5
-#B19470
-#76453B*/
+
+
 
 @import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
-/*font-family: 'Abhaya Libre', serif;*/
+
 
 *{
     padding: 0;
@@ -79,7 +76,7 @@ nav.menu > ul{
     padding-left: 20px;
     padding-right: 20px;
  }
- /*Titulo*/
+
  .titulo{
     position: relative;
     font-size: medium;
@@ -109,7 +106,7 @@ nav.menu > ul{
     
 }
 
- /*Inicio*/
+
  .descripcion {
     text-align: center;
     background-color: #B19470;
@@ -126,7 +123,7 @@ nav.menu > ul{
 
  
 
-/*Info*/
+
 .info{
     width: 100%;
     display: flex;
@@ -191,7 +188,7 @@ footer p{
     width: 40px;
 }
 
-/*---------------------------------------------------GALERIA-------------------------------------------------------------------------------*/
+
 .titulo-galeria{
     display: flex;
     align-items: center;
@@ -260,7 +257,7 @@ footer p{
 
 }
 
-/*------------------------------------------Petfriendly----------------------------------------------------------------*/
+
 .frase{
     background-color:#76453B;
     
@@ -290,7 +287,6 @@ footer p{
 
 
 
-/*-------------------------------------------------Nosotros-----------------------------------------*/
 
 .titulo-nosotros{
     background-color: #76453B;
@@ -312,10 +308,6 @@ footer p{
 }
 
 
-
-
-
-/*------------------------------------------------Contacto-------------------------------------------------------------*/
 
 
 
