@@ -309,19 +309,7 @@ footer p{
     
 }
 
-.nosotros{
-    background-color: #B19470;
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-}
-.nosotros img{
-    width: 100%;
-    margin-bottom: 10px;
-    max-width: 500%;
-    height:auto;
 
-}
 .formulario-padre{
     font-family: 'Arial', sans-serif;
     background-color:#76453B;
@@ -551,6 +539,17 @@ footer p{
 .formulario-padre{
     width: 100%;
     height: 100vh;
+    flex-direction: column; 
+    align-items: stretch;
 }
+.formulario .mapa{
+    flex: 1 100%;
+    margin: 0;
+
+}
+.mapa iframe{
+    height: 200px;
+}
+
     
 }
