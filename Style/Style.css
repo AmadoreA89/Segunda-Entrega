@@ -453,6 +453,9 @@ footer p {
   .pie a {
     margin-left: 20px;
   }
+  .frase > h1 {
+    font-size: 15px;
+  }
 
   .formulario-padre {
     width: 100%;
